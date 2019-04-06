@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+}
+.line{
+  border-right: 2px solid rgba(255,255,255,0.75);
+  font-size: 180%;
+  color: white;
+  display: flex;
+}
+@keyframes blink {
+
+}
