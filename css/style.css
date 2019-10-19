@@ -383,6 +383,7 @@ body:after {
 }
 #large-header {
   background: linear-gradient(rgba(0,0,0,0.8),rgba(0, 0, 0, 0.5)), url('../img/2.jpg') no-repeat 50% 50%;
+  background-attachment: fixed;
 }
 .judul
 {
